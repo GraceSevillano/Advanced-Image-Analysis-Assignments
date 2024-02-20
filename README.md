@@ -9,7 +9,9 @@ This repository contains my solutions for two assignments from the Advanced Imag
 - **Objective:** Design models (MLPs, CNNs, autoencoders) to understand, add, and generate images of numbers using the MNIST dataset.
 - **Contents:** Jupyter notebook with step-by-step solution, datasets, output images, trained models, and a detailed report.
 
-![Assignment1](https://github.com/GraceSevillano/Advanced-Image-Analysis-Assignments/blob/master/Assignment_1/images/imagenes_modelilin.png)
+<p align="center">
+  <img src="https://github.com/GraceSevillano/Advanced-Image-Analysis-Assignments/blob/master/Assignment_1/images/imagenes_modelilin.png" width="552" />
+</p>
 
 ### Assignment II - Style Transfer with Unpaired Collections of Images for Classification
 
