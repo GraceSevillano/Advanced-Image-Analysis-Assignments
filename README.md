@@ -15,7 +15,7 @@ This repository contains my solutions for two assignments from the Advanced Imag
 - **Contents:** Jupyter notebook with step-by-step solution, datasets, output images, trained models, and a detailed report.
 
 <p align="center">
-  <img src="https://github.com/GraceSevillano/Advanced-Image-Analysis-Assignments/blob/master/Assignment_1/images/imagenes_modelilin.png" width="552" />
+  <img src="https://github.com/GraceSevillano/Advanced-Image-Analysis-Assignments/blob/master/Assignment_1/images/imagenes_modelilin.png" width="500" />
 </p>
 
 ### Assignment II - Style Transfer with Unpaired Collections of Images for Classification
@@ -23,9 +23,9 @@ This repository contains my solutions for two assignments from the Advanced Imag
 - **Objective:** Perform classification and style transfer using unpaired image samples from the MNIST and SVHN datasets, inspired by CycleGAN.
 
 <p align="center">
-  <img src="https://github.com/GraceSevillano/Advanced-Image-Analysis-Assignments/blob/master/Assignment_2/images/mnist_data.jpg" width="250" />
-  <img src="https://github.com/GraceSevillano/Advanced-Image-Analysis-Assignments/blob/master/Assignment_2/images/colored_data.jpg" width="250"  />
-  <img src="https://github.com/GraceSevillano/Advanced-Image-Analysis-Assignments/blob/master/Assignment_2/images/svhn_data.jpg" width="250"  />
+  <img src="https://github.com/GraceSevillano/Advanced-Image-Analysis-Assignments/blob/master/Assignment_2/images/mnist_data.jpg" width="225" />
+  <img src="https://github.com/GraceSevillano/Advanced-Image-Analysis-Assignments/blob/master/Assignment_2/images/colored_data.jpg" width="225"  />
+  <img src="https://github.com/GraceSevillano/Advanced-Image-Analysis-Assignments/blob/master/Assignment_2/images/svhn_data.jpg" width="225"  />
 </p>
 
 - **Contents:** Jupyter notebook with detailed implementation, datasets, style-transferred image outputs, trained models, and an extensive report explaining the solution.
