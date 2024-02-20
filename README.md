@@ -16,7 +16,10 @@ This repository contains my solutions for two assignments from the Advanced Imag
 - **Objective:** Perform classification and style transfer using unpaired image samples from the MNIST and SVHN datasets, inspired by CycleGAN.
 - **Contents:** Jupyter notebook with detailed implementation, datasets, style-transferred image outputs, trained models, and an extensive report explaining the solution.
 
-![Assignment2](https://github.com/GraceSevillano/Advanced-Image-Analysis-Assignments/blob/master/Assignment_1/images/imagenes_modelilin.png)
+<p align="center">
+  <img src="https://github.com/GraceSevillano/Advanced-Image-Analysis-Assignments/blob/master/Assignment_2/images/generator_A_GANS1.gif" width="552" height="274" />
+  <img src="https://github.com/GraceSevillano/Advanced-Image-Analysis-Assignments/blob/master/Assignment_2/images/generator_A_GANS2.gif" width="552" height="274" />
+</p>
 
 ## Getting Started
 
