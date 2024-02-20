@@ -17,8 +17,8 @@ This repository contains my solutions for two assignments from the Advanced Imag
 - **Contents:** Jupyter notebook with detailed implementation, datasets, style-transferred image outputs, trained models, and an extensive report explaining the solution.
 
 <p align="center">
-  <img src="https://github.com/GraceSevillano/Advanced-Image-Analysis-Assignments/blob/master/Assignment_2/images/generator_A_GANS1.gif" width="552" />
-  <img src="https://github.com/GraceSevillano/Advanced-Image-Analysis-Assignments/blob/master/Assignment_2/images/generator_A_GANS2.gif" width="552" />
+  <img src="https://github.com/GraceSevillano/Advanced-Image-Analysis-Assignments/blob/master/Assignment_2/images/generator_A_GANS1.gif" width="226" />
+  <img src="https://github.com/GraceSevillano/Advanced-Image-Analysis-Assignments/blob/master/Assignment_2/images/generator_A_GANS2.gif" width="226" />
 </p>
 
 ## Getting Started
