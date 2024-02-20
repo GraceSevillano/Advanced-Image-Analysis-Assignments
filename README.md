@@ -7,6 +7,11 @@ This repository contains my solutions for two assignments from the Advanced Imag
 ### Assignment I - Learning to Sum and Generate Images of Numbers
 
 - **Objective:** Design models (MLPs, CNNs, autoencoders) to understand, add, and generate images of numbers using the MNIST dataset.
+
+<p align="center">
+  <img src="https://github.com/GraceSevillano/Advanced-Image-Analysis-Assignments/blob/master/Assignment_1/images/MLDL_2023_Assignment_1.jpg" width="300" />
+</p>
+  
 - **Contents:** Jupyter notebook with step-by-step solution, datasets, output images, trained models, and a detailed report.
 
 <p align="center">
