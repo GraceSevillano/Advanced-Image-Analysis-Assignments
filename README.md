@@ -52,5 +52,5 @@ This repository contains my solutions for two assignments from the Advanced Imag
 
 ## Acknowledgements
 
-Special thanks to Prof. Renato Martins for guiding these intricate projects, and to the community for the resources and tutorials on PyTorch and neural network training.
+Special thanks to Prof. Renato Martins (@renatojmsdh) for guiding these intricate projects, and to the community for the resources and tutorials on PyTorch and neural network training.
 
